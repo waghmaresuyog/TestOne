@@ -1,2 +1,7 @@
-package myPackage;public class Hello {
+package myPackage;
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("Hiiii suyog");
+    }
 }
